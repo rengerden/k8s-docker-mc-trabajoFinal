@@ -1,0 +1,3 @@
+docker push rengerden/k8s-docker-mc:tagname
+docker push rengerden/k8s-docker-mc-api-persona:1.0.0
+
